@@ -29,7 +29,7 @@
 .header-menu a:after {
   content: "";
   display: block;
-  height: 2px;
+  height: 4px;
   width: 0%;
   background: var(--cor-0);
   margin-top: 4px;
