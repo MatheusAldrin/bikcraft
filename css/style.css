@@ -12,6 +12,7 @@
 /* Home */
 @import "./home/introducao.css";
 @import "./home/bikes.css";
+@import "./home/tecnologia.css";
 
 /*  Botão */
 @import "./utilidades/componentes.css";
