@@ -20,3 +20,6 @@
 
 /*  Botão */
 @import "./utilidades/componentes.css";
+
+/*  termos */
+@import "./termos/termos.css";
