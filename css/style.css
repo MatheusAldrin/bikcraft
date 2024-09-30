@@ -16,7 +16,6 @@
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
-@import "./home/seguros.css";
 @import "./home/contato.css";
 
 /*  termos */
@@ -28,3 +27,8 @@
 
 /*  bicicletas */
 @import "./bicicletas/bicicletas.css";
+
+/*  seguros */
+@import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
